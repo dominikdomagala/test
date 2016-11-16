@@ -1,4 +1,4 @@
-#ifndef _BANK
-#define _BANK
+#ifndef _BANK_H
+#define _BANK_H
 
-#endif _BANK
+#endif _BANK_H
